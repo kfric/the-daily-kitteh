@@ -17,24 +17,24 @@ header {
   flex-direction: column;
 }
 h1 {
-  color: grey;
+  color: teal;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 3rem;
 }
 h2 {
-  color: grey;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: teal;
+  font-family: 'Slabo 27px', serif;
 }
 h3 {
-  color: grey;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: teal;
+  font-family: 'Slabo 27px', serif;
 }
 .story {
   margin: 2rem;
 }
 nav {
   color: white;
-  background-color: cadetblue;
+  background-color: darkturquoise;
   text-decoration: underline;
   display: flex;
   justify-content: space-evenly;
@@ -49,6 +49,9 @@ img {
   align-items: center;
   border: 2px solid lightseagreen;
   margin: 1rem;
+}
+.story {
+  font-family: 'Roboto', sans-serif;
 }
 article {
   display: flex;
